@@ -4,15 +4,10 @@
         "vid": "0x090C",
         "sn": "1941PDN779207",
         "mac1": "001132AE2B6F"
-		"mac2": "001132AE2B60"
-		"netif_num": "2"
+		    "mac2": "001132AE2B60"
+		    "netif_num": "2"
     },
-    "synoinfo": {
-		"maxlanport": "4",
-		"esataportcfg": "0xfffc",
-		"internalportcfg": "0x3",
-		"maxdisks": "16"
-	},
+    "synoinfo": {},
     "ramdisk_copy": {},
     "extensions": []
 }
